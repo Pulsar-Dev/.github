@@ -6,7 +6,6 @@
 <br/><br/>
 **Lythium** 				- Ideas Guy, **Developer**, UI, The real deal.\
 **Doctor Internet** 	- **Developer**, Web Administrator\
-**Tom** 						- PIXEL-UI Developer
 
 ## 📎Links
 **GmodStore**:  https://www.gmodstore.com/teams/pBHR7XxwQHWbTixsmqop3A
