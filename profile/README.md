@@ -1,5 +1,5 @@
 <br/><br/>
-![](https://github.com/Pulsar-Dev/.github/blob/master/primary-thin.png?raw=true)
+![](https://github.com/Pulsar-Dev/.github/blob/master/white-thin.png?raw=true)
 <br/><br/>
 ### Hey👋, 
 
